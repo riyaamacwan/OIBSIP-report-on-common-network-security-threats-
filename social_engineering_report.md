@@ -473,6 +473,48 @@ Looking at 2024 as a whole, malware and PUPs together made up almost 90% of Andr
 
 
 
+# Comparative Analysis
+# Threat Characteristics Comparison
+Characteristic
+Malvertising
+Ransomware
+Adware
+Primary Goal
+Malware distribution, fraud
+Financial extortion
+Advertisement revenue
+User Interaction Required
+Often no (drive-by downloads)
+No (after initial infection)
+Sometimes (clicking ads increases revenue)
+Typical Damage
+System compromise, data theft
+Data encryption, business disruption
+Performance degradation, privacy invasion
+Financial Impact
+Variable; often leads to other threats
+High ($10,000-$5,000,000+ ransoms)
+Low to moderate (indirect costs)
+Visibility
+Hidden until secondary infection
+Highly visible (ransom note)
+Visible (intrusive ads)
+Persistence
+Varies by payload
+High (encrypted files remain)
+Medium (reinstalls if not fully removed)
+Recovery Difficulty
+Depends on payload
+High without backups
+Low to medium
+Legal Status
+Clearly illegal
+Clearly illegal
+Mixed (some legitimate, some malicious)
+
+
+
+
 # Attack Vector Overlap
 These three threats often work in combination:
 1. Malvertising → Ransomware: Malicious ads serve as initial infection vector for ransomware deployment
